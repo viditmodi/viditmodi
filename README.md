@@ -8,19 +8,19 @@
       <img
         src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=scaleIn&type=waving&color=gradient&customColorList=24&fontSize=40&strokeWidth=1&stroke=ff0000&fontAlignY=50&fontAlign=50&height=150"
       />
-      <h1 align="center">Hi 👋, I'm Vidit Modi</h1>
       <p align="center">
         Your Visitor Number
         <br />
         <img src="https://profile-counter.glitch.me/viditmodi/count.svg" />
       </p>
+      <h1 align="center">Hi 👋, I'm Vidit Modi
+      <br>
+          Full Stack Developer | Builder | Lifelong Learner
+      </h1>
     </header>
     <!-- MAIN -->
     <main>
       <section>
-        <h2 align="center">
-          Full Stack Developer | Builder | Lifelong Learner
-        </h2>
         <p align="center">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto,
           quaerat pariatur perferendis, sequi dicta molestias at corporis
@@ -32,31 +32,24 @@
       </section>
       <section>
         <div>
-          <h2 align="center">About Me</h2>
+          <h2 align="left">About Me</h2>
           <ul>
-            <li>🔭 Currently building: College ERP System and FluentCSS</li>
-            <li>🌱 Exploring: AI & Data Science, Three.js, Cybersecurity</li>
+            <li>🔭 Currently building: [Coming Soon]</li>
+            <li>🌱 Exploring: [Coming Soon]</li>
             <li>
-              Ask me about: React, Node.js, MongoDB, Spring Boot, System Design
+              Ask me about: React, Node.js, MongoDB, JavaScript, CSS
             </li>
             <li>📫 Reach me at: viditmodi2001@gmail.com</li>
-            <li>🌐 Portfolio: viditmodi.github.io</li>
+            <li>🌐 Portfolio: [Coming Soon]</li>
           </ul>
         </div>
         <div>
-          <h2 align="center">🔥 Featured Projects</h2>
+          <h2 align="left">🔥 Featured Projects</h2>
           <ul>
             <li>
-              🛒 [Grocery App](https://github.com/viditmodi/grocery-app) – React
-              Native shopping app
-            </li>
-            <li>
-              🌐 [Portfolio Website](https://viditmodi.github.io) – Space-themed
-              black & gold portfolio
-            </li>
-            <li>
-              📦 [FluentCSS](https://github.com/viditmodi/fluentcss) –
-              Utility-first SCSS framework
+              <!-- 🛒 [Grocery App](https://github.com/viditmodi/grocery-app) – React
+              Native shopping app -->
+              [Coming Soon]
             </li>
           </ul>
         </div>
@@ -204,14 +197,12 @@
             src="https://github-readme-stats.vercel.app/api?username=viditmodi&show_icons=true"
           />
         </picture>
-        <p align="center">
-          <img
+          <img 
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=viditmodi&layout=donut&theme=outrun&hide_border=true"
           />
           <img
             src="https://streak-stats.demolab.com?user=viditmodi&theme=outrun&hide_border=true&border_radius=10px"
           />
-        </p>
         <div align="center">
           <img
             src="https://github-profile-trophy.vercel.app?username=viditmodi&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"
@@ -237,23 +228,21 @@
     <footer>
       <p align="center">
         <img
-          src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+          src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
           alt="Random Dev Quote"
         />
       </p>
     </footer>
   </body>
-  
-## ✨ Fun Facts
+
+<!-- ## ✨ Fun Facts
 
 - 🕹 Former Pokémon Battle Quest fan
 - 🎨 Minimalist UI lover with a taste for ✨gold on black✨
-- 🧘‍♂️ Enjoys building things that help others build faster
+- 🧘‍♂️ Enjoys building things that help others build faster -->
 
 ---
 
 > ⚡ _“Code. Create. Conquer.” – Vidit Modi_
 
 ---
-
-<!-- ![Profile views](https://komarev.com/ghpvc/?username=viditmodi&label=Profile%20views&color=0e75b6&style=flat) -->
